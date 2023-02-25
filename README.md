@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **vectorizing words in txt files trained on outcomes; after the txt files have been processed through a Voice to text model I set up**
 
-- 🌱 I’m currently learning **Using angular framework to build a responsive website that i can encorperate datascience to customize different elements**
+- 🌱 I’m currently learning **to Use angular framework to build a responsive website that i can build models to customize different elements based on how people use the page**
 
 - 💬 Ask me about **stock market machine learning**
 
