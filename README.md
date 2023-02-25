@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">A well rounded Data Scientist</h3>
+<h3 align="center">A versatile Data Scientist</h3>
 
-- 🔭 I’m currently working on **A Voice to text model**
+- 🔭 I’m currently working on **vectorizing words in txt files trained on outcomes; after the txt files have been processed through a Voice to text model I set up**
 
-- 🌱 I’m currently learning **how to build models from scratch**
+- 🌱 I’m currently learning **Using angular framework to build a responsive website that i can encorperate datascience to customize different elements**
 
 - 💬 Ask me about **stock market machine learning**
 
