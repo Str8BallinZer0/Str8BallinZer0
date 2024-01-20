@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">A versatile Data Scientist</h3>
+<h3 align="center">A versatile Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **vectorizing words in txt files trained on outcomes; after the txt files have been processed through a Voice to text model I set up**
+- 🔭 I’m currently working on **neural network engineering making a decisions based on other random forest and logistic regression models**
 
-- 🌱 I’m currently learning **to Use angular framework to build a responsive website that i can build models to customize different elements based on how people use the page**
+- 🌱 I’m currently learning **about forex**
 
 - 💬 Ask me about **stock market machine learning**
 
 - 📫 How to reach me **derek.l.holtz@gmail.com**
 
-- ⚡ Fun fact **I developed my first side scrolling game in 6th grade**
+- ⚡ Fun fact **I started two businesses in 2023**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
